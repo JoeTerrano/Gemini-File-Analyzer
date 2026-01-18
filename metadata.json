@@ -1,0 +1,5 @@
+{
+  "name": "AI Document Organizer",
+  "description": "An intelligent document organizing application that allows users to upload files and folders, get AI-powered analysis for summaries, suggested names, and tags, and easily update their documents.",
+  "requestFramePermissions": []
+}
